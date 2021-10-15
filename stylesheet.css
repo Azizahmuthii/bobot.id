@@ -1,0 +1,28 @@
+.heading {
+    text-align: center;
+  }
+.heading h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.heading p {
+    font-size: 20px;
+}
+.keunggulan2 {
+box-sizing: border-box;
+
+}
+.keunggulan {
+    display: flex;
+    float: left;
+    width: 50%;
+    background-color: bisque;
+    justify-content: center;
+
+    
+}
+.keunggulan-exp h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
