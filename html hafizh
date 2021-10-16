@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Progate</title>
+  </head>
+  <body>
+    <div class="top-wrapper">
+        <div class="container-top">
+          <h2 class="heading">Investasi Reksadana 
+              <br>Untuk <span>Kamu Semua!</span></br>
+              <p>Jangan kamu yang kerja terus, itu berat, biar uang-mu saja.</p>
+          </h2>
+          <div class="investor-image">
+            <img src="C:\Users\Lenovo\Desktop\HTML_Bobot\image\undraw_Investing_re_bov7.svg">
+          </div> 
+          <div class="btn-wrapper">
+            <div class="btn email">Daftar dengan Email</div>
+            <p>atau</p>
+            <div class="btn phone">Daftar dengan nomor telepon</div>   
+          </div>
+        </div>  
+        <div class="container-bottom">
+         <div class="container-content">
+            <p>Aplikasi Investasi</p>
+            <h3>Tercanggih</h3>
+            <b>di Indonesia</b>
+         </div>
+         <div class="container-content">
+            <p>Pionir Sistem</p>
+            <h3>Halal Investment </h3>
+            <b>pertama di dunia</b>
+         </div>
+         <div class="container-content">
+            <p>Mendapat penghargaan</p>
+            <h3>Nobel</h3>
+            <b>di bidang Ekonomi </b>
+         </div>
+         <div class="container-content">
+            <p>Lebih dari</p>
+            <h3>10 juta</h3>
+            <b>pengguna di Indonesia</b>
+         </div>   
+        </div>    
+        
+
+          
+    </div>  
+  
+  </body>
+</html>
