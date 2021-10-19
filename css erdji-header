@@ -22,7 +22,7 @@ header {
   display: inline;
 }
 
-span {
+.header-right {
   padding: 20px 25px;
   float: right;
   color: gray;
@@ -30,7 +30,7 @@ span {
   cursor: pointer;
 }
 
-span:hover {
+.header-right:hover {
   opacity: 0.6;
   color: rgb(108, 99, 255)
 }
@@ -40,10 +40,15 @@ span:hover {
   background-color: rgb(108, 99, 255);
   color: white;
   border-radius: 6px;
+  float: right;
+  cursor: pointer;
+  padding: 20px 25px;
+  transition: 0.4s;
 }
 
 .login-btn:hover {
   color: white;
+  background-color: rgba(108, 99, 255, 0.7);
 }
 
 .login-btn:active {
