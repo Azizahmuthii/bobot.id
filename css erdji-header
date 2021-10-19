@@ -1,0 +1,52 @@
+header {
+  margin-top: 20px;
+  align-items: center;
+  width: 1350px;
+}
+
+.header-logo {
+  padding: 15px 20px;
+  float: left;
+  margin-left: 120px;
+  cursor: pointer;
+}
+
+.logo-image {
+  float: left;
+  margin: 0 auto;
+  width: 150px;
+  border-style: none;
+}
+
+.header-list {
+  display: inline;
+}
+
+span {
+  padding: 20px 25px;
+  float: right;
+  color: gray;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+span:hover {
+  opacity: 0.6;
+  color: rgb(108, 99, 255)
+}
+
+.login-btn {
+  margin-right: 100px;
+  background-color: rgb(108, 99, 255);
+  color: white;
+  border-radius: 6px;
+}
+
+.login-btn:hover {
+  color: white;
+}
+
+.login-btn:active {
+  position: relative;
+  top: 7px;
+}
