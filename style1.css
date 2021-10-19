@@ -44,11 +44,3 @@ ul li a {
     text-align: center;
     width: 100%;
 }
-.btn {
-    color: white;
-    display: inline-block;
-    opacity: 0.8;
-}
-.btn:hover {
-    opacity: 1;
-}
