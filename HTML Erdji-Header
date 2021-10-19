@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Bobot.id</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <header>
+      <div class="header-logo">
+        <img class="logo-image" src="miniproject.png">
+      </div>
+      </div>
+      <div class="header-list">
+        <span class="login-btn">Login</span>
+        <span>Karir</span>
+        <span>FAQ</span>
+        <span>Blog</span>
+        <span>Reksadana</span>
+      </div>
+    </header>    
+  </body>
+</html>
