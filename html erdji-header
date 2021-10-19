@@ -13,10 +13,10 @@
       </div>
       <div class="header-list">
         <span class="login-btn">Login</span>
-        <span>Karir</span>
-        <span>FAQ</span>
-        <span>Blog</span>
-        <span>Reksadana</span>
+        <span class="header-right">Karir</span>
+        <span class="header-right">FAQ</span>
+        <span class="header-right">Blog</span>
+        <span class="header-right">Reksadana</span>
       </div>
     </header>    
   </body>
