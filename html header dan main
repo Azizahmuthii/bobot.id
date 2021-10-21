@@ -28,9 +28,9 @@
             <img src="image/undraw_Investing_re_bov7 blue.svg">
           </div> 
           <div class="btn-wrapper">
-            <a href="#" class="btn email">Daftar dengan Email</a>
+            <div class="btn email">Daftar dengan Email</div>
             <p>atau</p>
-            <a href="#" class="btn phone">Daftar dengan Nomor Telepon</a>  
+            <div class="btn phone">Daftar dengan Nomor Telepon</div>  
           </div>
         </div>  
         <div class="container-bottom">
