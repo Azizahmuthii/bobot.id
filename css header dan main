@@ -90,9 +90,7 @@ header {
     display: inline-block;
     opacity: 0.9;
     border-radius: 10px;
-}
-a {
-    text-decoration: none;
+    cursor: pointer;
 }
 .btn:hover {
     opacity: 1;
